@@ -1,0 +1,36 @@
+/* styles based on classes */
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+/* general */
+
+img {
+    width: 80%;
+}
+
+body {
+    background-color: #393E46;  
+}
+
+h1 {
+    margin: 35px;
+    text-shadow: 5px 0px darkslategrey;
+    font-size: 6rem;
+    color: cyan;
+}
+
+p {
+    font-size: 1.9rem;
+    color: cyan;
+}
+
